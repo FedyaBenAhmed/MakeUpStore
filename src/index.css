@@ -1,0 +1,10 @@
+
+@font-face {
+  font-family: 'Montserrat';
+  src: local ('Montserrat'),
+  url('./assets/Fonts/Montserrat-SemiBoldItalic.ttf') format('ttf');
+}
+
+body {
+ background-color: #D7B848;
+}
